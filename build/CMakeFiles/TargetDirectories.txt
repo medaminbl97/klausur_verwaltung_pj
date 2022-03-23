@@ -1,0 +1,3 @@
+/Users/mohamedaminebellil/Desktop/PProjects/klausur_verwaltung_pj/build/CMakeFiles/rebuild_cache.dir
+/Users/mohamedaminebellil/Desktop/PProjects/klausur_verwaltung_pj/build/CMakeFiles/edit_cache.dir
+/Users/mohamedaminebellil/Desktop/PProjects/klausur_verwaltung_pj/build/CMakeFiles/klausur_verwaltung_pj.dir
