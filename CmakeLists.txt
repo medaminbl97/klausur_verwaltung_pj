@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.3)
 
 project(klausur_verwaltung_pj)
+set(CMAKE_CXX_STANDARD 14)
 
 
-
-add_executable(klausur_verwaltung_pj main.cpp)
+add_executable(klausur_verwaltung_pj main.cpp student.hpp student.cpp)

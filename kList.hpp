@@ -7,9 +7,6 @@
 
 
 class kList{
-    private:
-
-
 
 
 

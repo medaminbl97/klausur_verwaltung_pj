@@ -1,5 +1,6 @@
-CMakeFiles/klausur_verwaltung_pj.dir/main.cpp.o: \
-  /Users/mohamedaminebellil/Desktop/PProjects/klausur_verwaltung_pj/main.cpp \
+CMakeFiles/klausur_verwaltung_pj.dir/student.cpp.o: \
+  /Users/mohamedaminebellil/Desktop/PProjects/klausur_verwaltung_pj/student.cpp \
+  /Users/mohamedaminebellil/Desktop/PProjects/klausur_verwaltung_pj/student.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/iostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/pthread.h \
@@ -229,5 +230,4 @@ CMakeFiles/klausur_verwaltung_pj.dir/main.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/bitset \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/__bit_reference \
-  /Users/mohamedaminebellil/Desktop/PProjects/klausur_verwaltung_pj/student.hpp
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/__bit_reference

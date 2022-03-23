@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/klausur_verwaltung_pj.dir/main.cpp.o"
   "CMakeFiles/klausur_verwaltung_pj.dir/main.cpp.o.d"
+  "CMakeFiles/klausur_verwaltung_pj.dir/student.cpp.o"
+  "CMakeFiles/klausur_verwaltung_pj.dir/student.cpp.o.d"
   "klausur_verwaltung_pj"
   "klausur_verwaltung_pj.pdb"
 )
