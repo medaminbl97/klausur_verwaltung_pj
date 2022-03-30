@@ -1,4 +1,4 @@
-#include "student.hpp"
+#include "student.h"
 
 student::student(const std::string& name, const std::string& maNummer, const std::string& gruppe )
 :name(name),maNummer(maNummer),gruppe(gruppe),next(0),prev(0){}

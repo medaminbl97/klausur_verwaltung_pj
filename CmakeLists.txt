@@ -1,7 +1,11 @@
-cmake_minimum_required(VERSION 3.3)
-
+cmake_minimum_required (VERSION 3.21.4)
 project(klausur_verwaltung_pj)
-set(CMAKE_CXX_STANDARD 14)
+set(CXX_STANDARD)
 
+file(GLOB srcfs src/*.cpp)
 
-add_executable(klausur_verwaltung_pj main.cpp student.hpp student.cpp)
+add_executable(klausur_verwaltung_pj ${srcfs})
+
+target_include_directories(klausur_verwaltung_pj
+    PRIVATE inc
+)

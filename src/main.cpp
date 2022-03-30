@@ -1,10 +1,10 @@
 #include <iostream>
-#include "student.hpp"
+#include "student.h"
 
 
 int main(){
 
-    student s1("Mohammed","1234","EI4a");
+    student s1("Mohammed","1234222","EI4a");
     std::cout << s1 ;
 
 

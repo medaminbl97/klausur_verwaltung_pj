@@ -129,53 +129,53 @@ klausur_verwaltung_pj/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/build
 .PHONY : klausur_verwaltung_pj/fast
 
-main.o: main.cpp.o
-.PHONY : main.o
+src/main.o: src/main.cpp.o
+.PHONY : src/main.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/main.cpp.o
-.PHONY : main.cpp.o
+src/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/src/main.cpp.o
+.PHONY : src/main.cpp.o
 
-main.i: main.cpp.i
-.PHONY : main.i
+src/main.i: src/main.cpp.i
+.PHONY : src/main.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/main.cpp.i
-.PHONY : main.cpp.i
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+src/main.s: src/main.cpp.s
+.PHONY : src/main.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/main.cpp.s
-.PHONY : main.cpp.s
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
 
-student.o: student.cpp.o
-.PHONY : student.o
+src/student.o: src/student.cpp.o
+.PHONY : src/student.o
 
 # target to build an object file
-student.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/student.cpp.o
-.PHONY : student.cpp.o
+src/student.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/src/student.cpp.o
+.PHONY : src/student.cpp.o
 
-student.i: student.cpp.i
-.PHONY : student.i
+src/student.i: src/student.cpp.i
+.PHONY : src/student.i
 
 # target to preprocess a source file
-student.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/student.cpp.i
-.PHONY : student.cpp.i
+src/student.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/src/student.cpp.i
+.PHONY : src/student.cpp.i
 
-student.s: student.cpp.s
-.PHONY : student.s
+src/student.s: src/student.cpp.s
+.PHONY : src/student.s
 
 # target to generate assembly for a file
-student.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/student.cpp.s
-.PHONY : student.cpp.s
+src/student.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/klausur_verwaltung_pj.dir/build.make CMakeFiles/klausur_verwaltung_pj.dir/src/student.cpp.s
+.PHONY : src/student.cpp.s
 
 # Help Target
 help:
@@ -186,12 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... klausur_verwaltung_pj"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
-	@echo "... student.o"
-	@echo "... student.i"
-	@echo "... student.s"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
+	@echo "... src/student.o"
+	@echo "... src/student.i"
+	@echo "... src/student.s"
 .PHONY : help
 
 

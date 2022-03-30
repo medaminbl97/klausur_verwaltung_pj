@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/mohamedaminebellil/Desktop/PProjects/klausur_verwaltung_pj/main.cpp" "CMakeFiles/klausur_verwaltung_pj.dir/main.cpp.o" "gcc" "CMakeFiles/klausur_verwaltung_pj.dir/main.cpp.o.d"
-  "/Users/mohamedaminebellil/Desktop/PProjects/klausur_verwaltung_pj/student.cpp" "CMakeFiles/klausur_verwaltung_pj.dir/student.cpp.o" "gcc" "CMakeFiles/klausur_verwaltung_pj.dir/student.cpp.o.d"
+  "/Users/mohamedaminebellil/Desktop/PProjects/klausur_verwaltung_pj/src/main.cpp" "CMakeFiles/klausur_verwaltung_pj.dir/src/main.cpp.o" "gcc" "CMakeFiles/klausur_verwaltung_pj.dir/src/main.cpp.o.d"
+  "/Users/mohamedaminebellil/Desktop/PProjects/klausur_verwaltung_pj/src/student.cpp" "CMakeFiles/klausur_verwaltung_pj.dir/src/student.cpp.o" "gcc" "CMakeFiles/klausur_verwaltung_pj.dir/src/student.cpp.o.d"
   )
 
 # Targets to which this target links.
