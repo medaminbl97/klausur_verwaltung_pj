@@ -1,0 +1,16 @@
+git init 
+git status
+
+git clone <path> -> for online exisiting project
+git remote add origin <path> -> connecting a local exisiting project with online exisiting online
+
+git add <file_name>
+git add . -> adding all files
+git commit -m "message"
+
+git branch -> branch working on
+git -b <branch_name > -> createing a new branch
+git checkout <branch_name> -> switching to branch
+git checkout -b <branch_name> -> createing a new branch and switching to it
+
+git push oring <branch_name> -> pushing to a branch
